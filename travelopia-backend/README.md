@@ -1,4 +1,4 @@
-# Travelopia Practical (Backend)
+# Travelopia (Backend)
 
 REST APIs for the practical task
 
